@@ -187,3 +187,4 @@ git push -u origin main
 - ✅ `priceRange` removido do JSON-LD por não haver fonte para esse dado
 - ⚠️ **Pendência que depende de configuração externa:** domínio definitivo do site ainda não confirmado — placeholder `vovodoccadoceria.com.br` sinalizado com comentários em `index.html`, `sitemap.xml` e `robots.txt`; atualizar antes da publicação final
 - ⚠️ Google Fonts e o iframe do Google Maps dependem de conexão com a internet em produção (comportamento esperado; não é um erro do projeto)
+Homologação - GitHub Pages
