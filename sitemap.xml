@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ATENÇÃO: a URL abaixo usa um domínio placeholder
+  (https://vovodoccadoceria.com.br/), ainda não confirmado como definitivo.
+  Atualize para o domínio real antes de publicar. Veja README.md > Publicação.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://vovodoccadoceria.com.br/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

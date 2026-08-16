@@ -1,0 +1,9 @@
+# Vovó Docca Doceria — robots.txt
+# ATENÇÃO: a linha "Sitemap" abaixo usa um domínio placeholder
+# (https://vovodoccadoceria.com.br/), ainda não confirmado como definitivo.
+# Atualize esta URL para o domínio real antes de publicar. Veja README.md > Publicação.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://vovodoccadoceria.com.br/sitemap.xml
